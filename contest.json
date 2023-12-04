@@ -1,0 +1,133 @@
+[
+    {
+    "name":"ProjectEuler.net",
+    "url":"https://www.hackerrank.com/contests/projecteuler/challenges",
+    "start_time":"2022-12-03T15:34:00.00Z",
+    "end_time":"2023-12-03T16:34:00.00Z",
+    "duration":"1000.0",
+    "site":"HackerRank",
+    "in_24_hours":"No",
+    "status":"CODING"
+},
+    {
+    "name":"The Very First Daisi™ Hackathon",
+    "url":"https://www.hackerearth.com/challenges/hackathon/the-very-first-daisitm-hackathon/",
+    "start_time":"2023-12-03T5:34:00.00Z",
+    "end_time":"2024-12-23T12:34:00.00Z",
+    "duration":"18218100.0",
+    "site":"HackerEarth",
+    "in_24_hours":"No",
+    "status":"CODING"
+},
+    {
+    "name":"IBM zStudent Contest",
+    "url":"https://www.hackerearth.com/challenges/hackathon/ibm-z-student-contest-2022/",
+    "start_time":"2022-12-13T4:24:00.00Z",
+    "end_time":"2023-02-32T6:14:00.00Z",
+    "duration":"9019.0",
+    "site":"HackerEarth",
+    "in_24_hours":"No",
+    "status":"CODING"
+},
+    {
+    "name":"Great Learning Software Development & Engineering Admission Challenge",
+    "url":"https://www.hackerearth.com/challenges/new/competitive/great-learning-software-development-engineering-admission-challenge/",
+    "start_time":"2022-09-14T6:15:00.00Z",
+    "end_time":"2022-10-17T16:15:00.00Z",
+    "duration":"40 minutes",
+    "site":"HackerEarth",
+    "in_24_hours":"No",
+    "status":"CODING"
+},
+    {
+    "name":"Build With Celo ReFi Hackathon '22",
+    "url":"https://build-with-celo.hackerearth.com/challenges/hackathon/celo-hackathon/custom-tab/about-celo/",
+    "start_time":"2022-09-28T12:46:00.00Z",
+    "end_time":"2022-11-15T01:44:00.00Z",
+    "duration":"187.0",
+    "site":"HackerEarth",
+    "in_24_hours":"No",
+    "status":"CODING"
+},
+    {
+    "name":"Quantum Science and Technology Hackathon 2022",
+    "url":"https://qetci.org/report-on-the-quantum-science-and-technology-hackathon-2022/",
+    "start_time":"2022-12-29T7:14:00.00Z",
+    "end_time":"2023-12-03T9:15:00.00Z",
+    "duration":"99974.0",
+    "site":"HackaThon",
+    "in_24_hours":"No",
+    "status":"CODING"
+},
+    {
+    "name":"HackaNoodle by Zomato & Blinkit",
+    "url":"https://www.hackerearth.com/challenges/new/competitive/hackanoodle-code-to-inspire/",
+    "start_time":"2022-09-30T06:15:00.00Z",
+    "end_time":"2022-10-17T06:15:00.00Z",
+    "duration":"2 hours 30 minutes",
+    "site":"HackerEarth",
+    "in_24_hours":"No",
+    "status":"CODING"
+},
+    {
+    "name":"Build a Climate Fintech App",
+    "url":"https://rapyd.hackerearth.com/",
+    "start_time":"2022-10-01T12:00:00.00Z",
+    "end_time":"2022-12-09T01:40:00.00Z",
+    "duration":"1 hours 15 minutes",
+    "site":"HackerEarth",
+    "in_24_hours":"No",
+    "status":"CODING"
+},
+    {
+    "name":"All Things e-Commerce - GeTS Hackathon",
+    "url":"https://www.hackerearth.com/challenges/hackathon/get-hack/",
+    "start_time":"2022-10-02T12:15:00.00Z",
+    "end_time":"2022-10-24T12:14:00.00Z",
+    "duration":"45 minutes",
+    "site":"HackerEarth",
+    "in_24_hours":"No",
+    "status":"CODING"
+},
+    {
+    "name":"R1 RCM Software Engineer Hiring Challenge",
+    "url":"https://assessment.hackerearth.com/challenges/new/hiring/r1-rcm-software-engineer-hiring-challenge/",
+    "start_time":"2022-10-03T06:15:00.00Z",
+    "end_time":"2022-10-23T06:15:00.00Z",
+    "duration":"2 hours 30 minutes",
+    "site":"HackerEarth",
+    "in_24_hours":"No",
+    "status":"CODING"
+},
+    {
+    "name":"Mercedes-Benz Cloud Platform Developer Hiring Challenge v4.0",
+    "url":"https://assessment.hackerearth.com/challenges/new/hiring/mercedes-benz-cloud-platform-developer-hiring-challenge-v40/",
+    "start_time":"2022-10-07T06:15:00.00Z",
+    "end_time":"2022-10-25T12:10:00.00Z",
+    "duration":"5 hours",
+    "site":"HackerEarth",
+    "in_24_hours":"No",
+    "status":"CODING"
+},
+    {
+    "name":"Hiring Full-stack Software developers",
+    "url":"https://nintriva.com/blog/hiring-full-stack-software-developers/",
+    "start_time":"2023-04-12T16:15:00.00Z",
+    "end_time":"2023-12-03T16:40:00.00Z",
+    "duration":"3 hours",
+    "site":"HackerRank",
+    "in_24_hours":"No",
+    "status":"CODING"
+},
+    {
+    "name":"Ready. Set. PWN!",
+    "url":"https://www.hackthebox.com/hacker/ctf",
+    "start_time":"2024-07-04T09:10:00.00Z",
+    "end_time":"2024-12-03T11:20:00.00Z",
+    "duration":"4 hours",
+    "site":"HacktheBox",
+    "in_24_hours":"No",
+    "status":"CODING"
+}
+
+]
